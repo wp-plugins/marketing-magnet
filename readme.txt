@@ -15,6 +15,7 @@ An easy way to add a marketing message before or after your Wordpress site heade
 An easy way to add a marketing message before or after your Wordpress site header.
 
 ###Quick Start Guide
+
 * [Marketing Magnet quick start guide at thinklandingpages.com](http://www.thinklandingpages.com/marketing-magnet/)
 
 ###What you get when you use the Marketing Magnet Wordpress plugin
